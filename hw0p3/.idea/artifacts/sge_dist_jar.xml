@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sge_dist:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/sge_dist_jar</output-path>
+    <root id="archive" name="sge_dist.jar">
+      <element id="module-output" name="sge_dist" />
+    </root>
+  </artifact>
+</component>
